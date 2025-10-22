@@ -1,0 +1,21 @@
+Date,Type,Category,Subcategory,Merchant,Description,Amount,Payment Method
+2024-01-01,Income,Salary,,Company Inc,Monthly salary,3500.00,Direct Deposit
+2024-01-02,Expense,Housing,Rent,Landlord,Monthly rent,1200.00,ACH Transfer
+2024-01-03,Expense,Food,Groceries,Walmart,Weekly groceries,85.50,Credit Card
+2024-01-04,Expense,Transportation,Gas,Shell,Gas fill-up,45.00,Debit Card
+2024-01-05,Expense,Entertainment,Streaming,Netflix,Monthly subscription,15.99,Credit Card
+2024-01-06,Expense,Utilities,Electricity,Power Co,Electric bill,125.00,ACH Transfer
+2024-01-07,Expense,Food,Dining Out,Pizza Palace,Dinner,28.75,Credit Card
+2024-01-08,Expense,Healthcare,Insurance,Health Ins,Health insurance,250.00,ACH Transfer
+2024-01-09,Expense,Transportation,Public Transit,City Bus,Bus pass,40.00,Cash
+2024-01-10,Expense,Personal,Clothing,Target,New shirt,25.99,Credit Card
+2024-01-11,Expense,Food,Groceries,Whole Foods,Organic groceries,95.00,Credit Card
+2024-01-12,Expense,Entertainment,Movies,AMC Theaters,Movie tickets,24.50,Credit Card
+2024-01-13,Expense,Utilities,Internet,Comcast,Internet bill,65.00,ACH Transfer
+2024-01-14,Expense,Transportation,Gas,Exxon,Gas fill-up,42.00,Debit Card
+2024-01-15,Expense,Food,Dining Out,Starbucks,Coffee,8.50,Credit Card
+2024-01-16,Expense,Personal,Gym,Fitness Center,Gym membership,50.00,ACH Transfer
+2024-01-17,Expense,Food,Groceries,Kroger,Weekly groceries,72.30,Credit Card
+2024-01-18,Expense,Entertainment,Streaming,Spotify,Music subscription,9.99,Credit Card
+2024-01-19,Expense,Utilities,Water,Water Dept,Water bill,35.00,ACH Transfer
+2024-01-20,Expense,Transportation,Public Transit,Metro,Metro card,30.00,Cash
